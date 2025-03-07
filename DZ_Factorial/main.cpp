@@ -11,7 +11,7 @@ using std::endl;
 //#define FACTORIAL
 //#define DEGREE
 //#define DEGREE_POST
-//#define TABLE_OF_ASCII
+#define TABLE_OF_ASCII
 //#define FIBONACCI
 //#define FIBONACCI_POST
 //#define FIBONACCI_N
