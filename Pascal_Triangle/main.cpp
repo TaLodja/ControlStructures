@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 #define SPACE_BETWEEN	8
@@ -7,7 +7,7 @@ void main()
 {
 	setlocale(LC_ALL, "");
 	int h;
-	cout << "Ââåäèòå âûñîòó òðåóãîëüíèêà: "; cin >> h;
+	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð²Ñ‹ÑÐ¾Ñ‚Ñƒ Ñ‚Ñ€ÐµÑƒÐ³Ð¾Ð»ÑŒÐ½Ð¸ÐºÐ°: "; cin >> h;
 	long long int nf = 1;
 	cout.width(SPACE_BETWEEN/2*(h+1));
 	cout << "";
